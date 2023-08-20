@@ -1,5 +1,7 @@
-list of fruits!!!
+list of fruits!!
 mango
 guava
 banana 
 apples
+watermelon
+orange

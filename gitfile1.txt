@@ -4,6 +4,5 @@ guava
 banana 
 apples
 watermelon
-orange
-grapes
+pawpaw
 
